@@ -19,7 +19,8 @@ namespace GB_Arch_Patterns_HW02_Brizhak
             //OrderRepository orderRep = new ApiOrder();
             //orderRep.Update(order1);
 
-            
+            OrderRepository orderRepository = new OrderRepository(new ApiOrderConnect());
+           
         }
     }
 }
