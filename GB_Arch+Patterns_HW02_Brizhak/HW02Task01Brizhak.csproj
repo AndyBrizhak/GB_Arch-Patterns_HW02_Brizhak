@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApiOrder.cs" />
+    <Compile Include="ApiOrderConnect.cs" />
     <Compile Include="IOrderConnect.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderRepository.cs" />
