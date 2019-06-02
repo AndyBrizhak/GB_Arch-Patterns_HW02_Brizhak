@@ -2,9 +2,13 @@
 {
     class OrderRepository
     {
+        private IOrderConnect connect;
+
+        public OrderRepository(IOrderConnect connect) => this.connect = connect;
+
         public Order Load(int orderId)
         {
-            return null;
+            return connect.Load(orderId);
         }
 
         public void Save(Order order)
