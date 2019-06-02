@@ -8,6 +8,6 @@ namespace HW02Task02Brizhak
 {
     interface IMaterial
     {
-        void SetColor(Material material);
+        void SetMaterial(Material material);
     }
 }
