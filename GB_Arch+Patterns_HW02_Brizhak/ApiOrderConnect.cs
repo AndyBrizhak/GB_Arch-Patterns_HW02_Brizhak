@@ -2,7 +2,7 @@
 {
     class ApiOrderConnect : IOrderConnect
     {
-        public new Order Load(int orderId)
+        public Order Load(int orderId)
         {
             return null;
         }

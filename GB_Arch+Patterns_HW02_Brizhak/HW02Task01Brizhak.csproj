@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ApiOrderConnect.cs" />
     <Compile Include="IOrderConnect.cs" />
+    <Compile Include="MySQLOrderConnect.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderRepository.cs" />
     <Compile Include="Program.cs" />
