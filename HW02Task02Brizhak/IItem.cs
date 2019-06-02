@@ -11,7 +11,7 @@ namespace HW02Task02Brizhak
         void SetDiscount(double discount);
         void SetPromocode(string promocode);
         
-        //void SetSize(Size size);
+        
         void SetPrice(double price);
         void SetState(State state);
     }
