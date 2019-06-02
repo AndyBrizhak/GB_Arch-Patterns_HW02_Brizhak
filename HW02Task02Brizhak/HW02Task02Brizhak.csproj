@@ -50,6 +50,7 @@
     <Compile Include="IColor.cs" />
     <Compile Include="IItem.cs" />
     <Compile Include="IMaterial.cs" />
+    <Compile Include="ISize.cs" />
     <Compile Include="Material.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
