@@ -15,9 +15,11 @@ namespace GB_Arch_Patterns_HW02_Brizhak
     {
         static void Main(string[] args)
         {
-            var order1 = new Order();
-            OrderRepository orderRep = new ApiOrder();
-            orderRep.Update(order1);
+            //var order1 = new Order();
+            //OrderRepository orderRep = new ApiOrder();
+            //orderRep.Update(order1);
+
+            
         }
     }
 }
