@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_Arch+Patterns_HW02_Brizhak", "GB_Arch+Patterns_HW02_Brizhak\GB_Arch+Patterns_HW02_Brizhak.csproj", "{E8498CC7-E622-48B2-9A79-0EBE89867CCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02Task01Brizhak", "GB_Arch+Patterns_HW02_Brizhak\HW02Task01Brizhak.csproj", "{E8498CC7-E622-48B2-9A79-0EBE89867CCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
