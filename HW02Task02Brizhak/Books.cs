@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HW02Task02Brizhak
 {
-    class Book : IItem
+    class Books : IItem
     {
-        public Book()
+        public Books()
         {
         }
 
