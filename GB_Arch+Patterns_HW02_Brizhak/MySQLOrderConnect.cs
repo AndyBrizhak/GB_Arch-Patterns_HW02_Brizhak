@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GB_Arch_Patterns_HW02_Brizhak
 {
+     /// <summary>
+     /// class for connected with MySQL database
+     /// </summary>
      class MySQLOrderConnect : IOrderConnect
     {
         public MySQLOrderConnect()

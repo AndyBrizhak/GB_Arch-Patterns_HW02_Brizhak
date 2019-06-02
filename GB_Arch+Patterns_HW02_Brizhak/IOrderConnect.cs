@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GB_Arch_Patterns_HW02_Brizhak
 {
+    /// <summary>
+    /// Connect Interface
+    /// </summary>
     interface IOrderConnect
     {
         Order Load(int orderId);

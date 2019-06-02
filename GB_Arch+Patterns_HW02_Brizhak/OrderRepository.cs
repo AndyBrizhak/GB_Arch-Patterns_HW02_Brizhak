@@ -1,5 +1,8 @@
 ﻿namespace GB_Arch_Patterns_HW02_Brizhak
 {
+    /// <summary>
+    /// class for orders on repository
+    /// </summary>
     class OrderRepository
     {
         private IOrderConnect connect;
