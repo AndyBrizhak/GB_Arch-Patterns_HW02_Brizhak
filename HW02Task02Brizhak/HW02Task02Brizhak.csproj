@@ -47,6 +47,7 @@
     <Compile Include="Car.cs" />
     <Compile Include="Clothes.cs" />
     <Compile Include="Color.cs" />
+    <Compile Include="IColor.cs" />
     <Compile Include="IItem.cs" />
     <Compile Include="IMaterial.cs" />
     <Compile Include="Material.cs" />
